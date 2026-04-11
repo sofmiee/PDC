@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(rk_1
         task_1.cpp
+        task_2.cpp
         Inspector.cpp
         Inspector.h
         Storage.cpp

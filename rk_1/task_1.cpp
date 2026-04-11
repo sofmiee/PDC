@@ -2,7 +2,7 @@
 #include <thread>
 #include <chrono>
 #include <iostream>
-
+/*
 Storage zone_1(1, 10, 100);
 Storage zone_2(2, 3, 150);
 
@@ -40,5 +40,5 @@ int main() {
     std::cout << "Зона №2" << std::endl << "В наличии: " << zone_2.get_amount() << std::endl
  << "Необходимо: " << zone_2.get_need_amount() << std::endl;
     return 0;
-}
+}*/
 
